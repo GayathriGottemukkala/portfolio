@@ -28,8 +28,6 @@ const Portfolio = () => {
         { src: ipl, link: 'https://ipldashboard-pink.vercel.app/', text: 'Click to see my project' },
         { src: Bookstore, link: 'https://firefly-nine-opal.vercel.app/', text: 'Click to see my project' },
         
-
-        
     ];
 
     console.log("Projects:", projects);
